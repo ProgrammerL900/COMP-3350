@@ -1,0 +1,3 @@
+﻿  Assembling Laura_Wilson.asm...
+Laura_Wilson.asm(10): fatal error A1000: cannot open file : C:\Irvine\Irvine32.inc
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Laura_Wilson.obj" /W3 /errorReport:prompt  /TaLaura_Wilson.asm" exited with code 1.

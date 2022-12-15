@@ -1,0 +1,2 @@
+﻿Quiz1_yourAUID.obj : error LNK2005: _main@0 already defined in test.obj
+C:\Users\Laura\source\repos\Project1\Debug\Project1.exe : fatal error LNK1169: one or more multiply defined symbols found
